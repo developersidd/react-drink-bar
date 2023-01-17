@@ -1,0 +1,13 @@
+.banner{
+    background-image: 
+    linear-gradient(to right,  rgba(0, 0, 0, 0.342), rgba(0, 0, 0, 0.377) ),
+    url("../../images/banner.jpg") ;
+    background-position: center center;
+    height: calc(100vh - 5rem);
+    background-size: contain;
+    z-index: -1;
+}
+
+.heading{
+    text-shadow: 2px 2px  3px rgba(0, 0, 0, 0.5);
+}
